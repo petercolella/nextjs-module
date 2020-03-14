@@ -1,26 +1,29 @@
 {
-    "name": "nextjs-module",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "dev": "next",
-        "build": "next build",
-        "start": "next start"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/petercolella/nextjs-module.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/petercolella/nextjs-module/issues"
-    },
-    "homepage": "https://github.com/petercolella/nextjs-module#readme",
-    "dependencies": {
-        "next": "^9.1.4",
-        "react": "^16.12.0",
-        "react-dom": "^16.12.0"
-    }
+  "name": "nextjs-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercolella/nextjs-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petercolella/nextjs-module/issues"
+  },
+  "homepage": "https://github.com/petercolella/nextjs-module#readme",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "minimist": ">=1.2.2"
+  }
 }
