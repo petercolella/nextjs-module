@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/petercolella/nextjs-module#readme",
   "dependencies": {
-    "next": "^9.5.6-canary.9",
+    "next": "^13.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
